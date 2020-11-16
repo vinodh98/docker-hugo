@@ -5,3 +5,4 @@ It is based off the work done over here: https://github.com/dinofizz/docker-hugo
 
 Note:
 - The hugo binary is downloaded from GitHub
+- Current build version is 0.78.2
